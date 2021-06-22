@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { data } from '../../data';
+import { data } from '../data';
 import {
 	ResponsiveContainer,
 	PieChart,
